@@ -10,7 +10,7 @@ The default link is set to: https://www.alp.org.au/petitions/no-tafe-cuts/
 
 
 <h1> How To Run It: </h1>
-First you need go, download it from https://go.dev 
-Then run the following in cmd:
+<h3>First you need go, download it from https://go.dev</h3>
+<h3>Then run the following in cmd:</h3>
 ```go run main.go```
-and you're done, you should see "successfully signed" upon starting it. 
+<h3>and you're done, you should see "successfully signed" upon starting it. </h3>
